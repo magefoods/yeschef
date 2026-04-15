@@ -17,7 +17,7 @@ Check out our latest community adventures!
 *Hi friends, I’m Lana! Welcome to my cozy vista, where we unwind with soothing games like Infinity Nikki, Palia, Disney Dreamlight Valley, and more.*
 
 <p align="center">
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/Z8XZk09e02w" frameborder="0" allowfullscreen style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);"></iframe>
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/ABVUs9sDjJI" frameborder="0" allowfullscreen style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);"></iframe>
 </p>
 
 ---
@@ -26,7 +26,7 @@ Check out our latest community adventures!
 *A beautiful look at a nature-themed plot build. Perfect for some ranching inspiration!*
 
 <p align="center">
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/Z8XZk09e02w" frameborder="0" allowfullscreen style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);"></iframe>
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/cItSXJq9qWI" frameborder="0" allowfullscreen style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);"></iframe>
 </p>
 
 ---
