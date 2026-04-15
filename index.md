@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="center">
-  <strong><a href="/">Home</a> | <a href="/plot-tours/">Plot Tours</a></strong>
+  <strong><a href="./">Home</a> | <a href="./plot-tours.html">Plot Tours</a></strong>
 </p>
 
 <p align="center">
@@ -30,6 +30,5 @@ Our community is built around fun, teamwork, and good vibes — and here’s wha
   .site-footer, .btn { display: none !important; }
   header, .main-content { text-align: center !important; }
   .main-content ul { display: inline-block; text-align: left; margin-top: 20px; }
-  a { color: #157878; text-decoration: none; }
-  a:hover { text-decoration: underline; }
+  a { color: #157878; text-decoration: none; font-weight: bold; }
 </style>
