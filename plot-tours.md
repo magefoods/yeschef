@@ -13,11 +13,12 @@ Check out our latest community adventures!
 
 ---
 
-### 🌟 Featured Tour: The Zen Garden Plot
-*Visiting a stunning nature-focused build by one of our members.*
+### 🌟 Featured Tour: lanasvista ~
+
+*Hi friends, I’m Lana! Welcome to my cozy vista, where we unwind with soothing games like Infinity Nikki, Palia, Disney Dreamlight Valley, and more.*
 
 <p align="center">
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/Sshz2YJ4f1I" frameborder="0" allowfullscreen style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);"></iframe>
+  <iframe width="100%" height="400" src="[https://www.youtube.com/embed/Sshz2YJ4f1I](https://www.youtube.com/watch?v=d3mirsiTudg)" frameborder="0" allowfullscreen style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.1);"></iframe>
 </p>
 
 ---
